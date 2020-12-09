@@ -38,4 +38,4 @@ int main() {
 	return 0;
 }
 /* your input should be the option first like + for addition , - for substraction , * for multiplication , / for divide 
-followed by the number1 and the number 2 u want to apply operation to */
+followed by the number1 and the number 2 you want to apply operation to */
